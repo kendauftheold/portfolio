@@ -1,6 +1,6 @@
-﻿# portfolio
+﻿# The Game of Life
 
-This is my version on the Game of Life
+This is my version on the Game of Life coded in Java
 
 Each cell can either be dead (empty) or alive (filled in black).
 When the game progresses through to the next generation, each cell's status will be recalculated based on the following rules:
