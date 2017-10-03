@@ -1,5 +1,4 @@
 ﻿# portfolio
-# portfolio
 
 This is my version on the Game of Life
 
